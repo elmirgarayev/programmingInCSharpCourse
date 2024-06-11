@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B15AB50F-8E58-422B-AC3B-180348EC5DF5}|Lesson3\\Lesson3.csproj|d:\\visual studio proyektleri\\programmingincsharpcourse\\lesson3\\lesson3\\lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B15AB50F-8E58-422B-AC3B-180348EC5DF5}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Lesson3\\Program.cs",
-              "RelativeDocumentMoniker": "Lesson3\\Program.cs",
-              "ToolTip": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Lesson3\\Program.cs",
-              "RelativeToolTip": "Lesson3\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAlwDYAAAAAAAAA",
+              "DocumentMoniker": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T13:03:57.89Z",
+              "WhenOpened": "2024-06-11T14:37:30.776Z",
               "EditorCaption": ""
             }
           ]
