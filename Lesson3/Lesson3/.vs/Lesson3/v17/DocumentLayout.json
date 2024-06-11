@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B15AB50F-8E58-422B-AC3B-180348EC5DF5}|Lesson3\\Lesson3.csproj|d:\\visual studio proyektleri\\programmingincsharpcourse\\lesson3\\lesson3\\lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15AB50F-8E58-422B-AC3B-180348EC5DF5}|Lesson3\\Lesson3.csproj|solutionrelative:lesson3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Lesson3\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson3\\Program.cs",
+              "ToolTip": "D:\\Visual Studio proyektleri\\ProgrammingInCSharpCourse\\Lesson3\\Lesson3\\Lesson3\\Program.cs",
+              "RelativeToolTip": "Lesson3\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAlwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:03:57.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

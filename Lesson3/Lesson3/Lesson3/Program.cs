@@ -1,7 +1,67 @@
 ﻿internal class Program
 {
 
-    private static void Main(string[] args)
+    private static void Main(string[] args) 
+    {
+        /*
+        Console.WriteLine("Write the first number: ");
+        int var1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("Write the second number: ");
+        int var2 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine(toDo1(var1, var2));
+        
+
+        Console.WriteLine("Write the first string: ");
+        string var1 = Console.ReadLine();
+        Console.WriteLine("Write the second string: ");
+        string var2 = Console.ReadLine();
+
+        Console.WriteLine(toDo2(var1, var2));
+        */
+
+        Console.WriteLine("Write the first number: ");
+        int var1 = int.Parse(Console.ReadLine());
+        Console.WriteLine("Write the second number: ");
+        int var2 = int.Parse(Console.ReadLine());
+
+        Console.WriteLine(toDo3(var1, var2));
+
+    }
+
+    private static bool toDo1(int var1, int var2) 
+    {
+        if ((var1 % 2 == 0 &&  var2 % 2 == 0) || (var1 % 2 == 1 && var2 % 2 == 1)) 
+        {
+            return true;
+        }
+        else 
+        {
+            return false;
+        }
+    } 
+
+    private static bool toDo2(string str1, string str2)
+    {
+
+        if (str1.Contains(str2))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+
+    }
+
+    private static float toDo3(int var1, int var2)
+    {
+        float var = (float)var1 / (float)var2;
+        return var;
+    }
+
+    private static void Main4(string[] args)
     {
         var resul4 = sizeof(int);
         int a = 5;
